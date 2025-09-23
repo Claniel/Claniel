@@ -1,3 +1,4 @@
+
 # 👋 Hi, I’m Claniel!
 
 ## 🛠 What I do
@@ -7,9 +8,15 @@
 - ⚡ Experienced with **Node.js**
 - 🖥 Manage **Linux servers** (administration, commands, setup, domains)
 - 🎮 Develop **Java plugins for Minecraft**
-- 🚀 I enjoy experimenting with new technologies and projects
+- 🚀 I love experimenting with new technologies and projects
+- 🏗 I can create a **website or program from scratch**
+- 📈 Skilled in **SEO optimization**
+- 📧 Experienced with **email systems and messaging**
+- 🤖 Build **automation scripts**
+- 🌟 I can develop the **perfect website or application**
 
-📌 If you’d like to check out one of my works → [MiddleCraft.eu](https://middlecraft.eu/)  
+📌 Check out one of my works → [MiddleCraft.eu](https://middlecraft.eu/)  
+📩 Contact me if you’d like me to build something for you → **claniel@middlecraft.eu**
 
 ---
 
