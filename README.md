@@ -1,4 +1,3 @@
-
 # 👋 Hi, I’m Claniel!
 
 ## 🛠 What I do
@@ -15,8 +14,23 @@
 - 🤖 Build **automation scripts**
 - 🌟 I can develop the **perfect website or application**
 
-📌 Check out one of my works → [MiddleCraft.eu](https://middlecraft.eu/)  
-📩 Contact me if you’d like me to build something for you → **claniel@middlecraft.eu**
+---
+
+## 🧩 Selected Projects
+
+📌 **MiddleCraft** – Minecraft community & services  
+🔗 https://middlecraft.eu/
+
+🛍 **Chiappini Store** – Custom-built online store  
+🔗 https://chiappini.store/
+
+🎭 **Kulturae Store** – Creative / cultural e-commerce project  
+🔗 https://kulturae.store/
+
+👉 **Want to see more projects made by me?**  
+📩 Contact me and I’ll gladly show you additional websites, systems, and custom solutions I’ve built.
+
+📧 **Email:** claniel@middlecraft.eu
 
 ---
 
